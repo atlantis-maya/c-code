@@ -2,5 +2,10 @@
 int main(){
   printf("this is first program of C language");
   printf("thinks!!!!")
+  test();
+ 
 
+}
+void test(){
+ printf("this is test method")
 }
